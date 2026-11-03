@@ -1,0 +1,2 @@
+# Optional: enables richer audio metadata and embedded album artwork.
+mutagen>=1.47.0
